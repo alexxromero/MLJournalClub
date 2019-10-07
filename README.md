@@ -18,4 +18,4 @@ Reinforcement learning
      https://towardsdatascience.com/openai-tried-to-train-ai-agents-to-play-hide-and-seek-but-instead-they-were-shocked-by-what-they-3ea32bf7fc95  
      https://d4mucfpksywv.cloudfront.net/emergent-tool-use/paper/Multi_Agent_Emergence_2019.pdf   
      3. Applications in physics:    
-     https://arxiv.org/abs/1903.09644  
+     https://arxiv.org/abs/1903.09644  (optional -- in case anyone was curious about an application in physics)  

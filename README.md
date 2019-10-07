@@ -10,8 +10,8 @@
 ## 1st Meeting - October 6, 2019
 
 Reinforcement learning  
-    - Host: Alexis Romero  
-    - Links:   
+* Host: Alexis Romero  
+* Links:   
      1. Intro to reinforcement learning:  
                 https://medium.com/machine-learning-for-humans/reinforcement-learning-6eacf258b265   
       2. Practical applications:  
